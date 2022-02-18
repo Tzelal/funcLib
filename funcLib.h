@@ -1,7 +1,5 @@
-#include <msp430.h>
-
-#ifndef FUNCLIB_H_INCLUDED
-#define FUNCLIB_H_INCLUDED
+#ifndef FUNCLIB_H
+#define FUNCLIB_H
 
 void funcLib(void);
 
